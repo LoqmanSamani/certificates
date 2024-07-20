@@ -41,25 +41,25 @@ In the past five years, before and alongside my Master's program in [Technical B
 
     - [Linear Algebra for Machine Learning and Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/linear_algebra.pdf)
     - [Calculus for Machine Learning and Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
-    - [Probability & Statistics for Machine Learning & Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+    - [Probability & Statistics for Machine Learning & Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/statistics.pdf)
 
-2. **Machine Learning Specialization:**[here](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+2. **Machine Learning Specialization:**[here](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/machine_learning_specialization)
 
-    - [Supervised Machine Learning: Regression and Classification](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
-    - [Advanced Learning Algorithms](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
-    - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+    - [Supervised Machine Learning: Regression and Classification](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/supervised_learning.pdf)
+    - [Advanced Learning Algorithms](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/advanced_algorithms.pdf)
+    - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/unsupervised_learning.pdf)
 
 3. **Deep Learning Specialization:**[here](...)
-    - [Neural Networks and Deep Learning](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
-    - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
-    - [Structuring Machine Learning Projects](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
-    - [Convolutional Neural Networks](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+    - [Neural Networks and Deep Learning](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/neural_networks_%26_deep_learning.pdf)
+    - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/improving_deep_neural_network.pdf)
+    - [Structuring Machine Learning Projects](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/structuring_ml_projects.pdf)
+    - [Convolutional Neural Networks](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/conv_nets.pdf)
     - [Sequence Models](...)
 
 
 ## German language certificates:
 
-1. [TestDaf](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
-2. [Goethe Certificate C1](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
-3. [C1 Couese](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+1. [TestDaf](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/german-certificate/testdaf.pdf)
+2. [Goethe Certificate C1](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/german-certificate/c1-certificate.pdf)
+3. [C1 Couese](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/german-certificate/c1-course.pdf)
 
