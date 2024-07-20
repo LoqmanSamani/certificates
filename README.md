@@ -1,50 +1,65 @@
 # Courses and Certificates Completed
 
-In the past three years, alongside my Master's program in [Technical Biology](https://www.uni-stuttgart.de/en/study/study-programs/Technical-Biology-M.Sc./) at the [University of Stuttgart](https://www.uni-stuttgart.de/en/), I have successfully completed various online courses and specializations. Below is a list of these courses, categorized by platform, along with their respective certificates.
+In the past five years, before and alongside my Master's program in [Technical Biology](https://www.uni-stuttgart.de/en/study/study-programs/Technical-Biology-M.Sc./) at the [University of Stuttgart](https://www.uni-stuttgart.de/en/), I have successfully completed various online courses and specializations. Below is a list of these courses, categorized by platform, along with their respective certificates.
 
 ## Codecademy Courses ([website](https://www.codecademy.com/))
 
-1. [Introduction into IT](https://www.codecademy.com/learn/introduction-into-it)
-2. [Data Science Foundations](https://www.codecademy.com/learn/data-science-foundations)
-3. [Python 3](https://www.codecademy.com/learn/python-3)
-4. [Statistics with Python](https://www.codecademy.com/learn/statistics-with-python)
-5. [Master Statistics with Python](https://www.codecademy.com/learn/master-statistics-with-python)
-6. [Data Analysis with Pandas](https://www.codecademy.com/learn/data-analysis-with-pandas)
-7. [Intermediate Python 3](https://www.codecademy.com/learn/intermediate-python-3)
-8. [Statistics with NumPy](https://www.codecademy.com/learn/statistics-with-numpy)
-9. [How to Clean Data with Python](https://www.codecademy.com/learn/how-to-clean-data-with-python)
-10. [Recursion with Python](https://www.codecademy.com/learn/recursion-with-python)
-11. [Fundamental Math for Data Science](https://www.codecademy.com/learn/fundamental-math-for-data-science)
-12. [Differential Calculus](https://www.codecademy.com/learn/differential-calculus)
-13. [Linear Regression in Python](https://www.codecademy.com/learn/linear-regression-in-python)
-14. [Build a Machine Learning Model with Python](https://www.codecademy.com/learn/build-a-machine-learning-model-with-python)
+1. [Introduction into IT](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/intro_to_IT.pdf)
+2. [Data Science Foundations](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/data_science_foundations.pdf)
+3. [Python 3](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/python3.pdf)
+4. [Statistics with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/statistics_with_python.pdf)
+5. [Master Statistics with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/master_statistics_with_python.pdf)
+6. [Data Analysis with Pandas](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/pandas.pdf)
+7. [Intermediate Python 3](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/intermediate_python3.pdf)
+8. [Statistics with NumPy](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/numpy.pdf)
+9. [How to Clean Data with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/data_cleaning_with_python.pdf)
+10. [Recursion with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/recursion.pdf)
+11. [Fundamental Math for Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/fundamental_math_for_data_science.pdf)
+12. [Differential Calculus](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/differential_calculus.pdf)
+13. [Linear Regression in Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/linear_regression.pdf)
+14. [Build a Machine Learning Model with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/machine_learning_with_python.pdf)
 
 ## Coursera Courses
 
 ### Bioinformatics
 
-1. [Bioinformatic Methods I](https://www.coursera.org/learn/bioinformatic-methods-i)
-2. **Genomic Data Science Specialization:**
-    - [Introduction to Genomic Technologies](https://www.coursera.org/learn/introduction-genomic-technologies)
-    - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomic-data-science)
-    - [Algorithms for DNA Sequencing](https://www.coursera.org/learn/algorithms-dna-sequencing)
-    - [Command Line Tools for Genomic Data Science](https://www.coursera.org/learn/command-line-tools-genomic-data-science)
-    - [Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor-genomic-data-science)
-    - [Statistics for Genomic Data Science](https://www.coursera.org/learn/statistics-genomic-data-science)
+1. [Bioinformatic Methods I](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/bioinformatics/bioinformatic_methods_1.pdf)
+
+2. **Genomic Data Science Specialization:**[here](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/bioinformatics/genomic_data_science.pdf)
+
+    - [Introduction to Genomic Technologies](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/bioinformatics/intro_genomic_technology.pdf)
+    - [Python for Genomic Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/bioinformatics/python_for_genomic_data_science.pdf)
+    - [Algorithms for DNA Sequencing](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/bioinformatics/algorithms_for_dna_sequencing.pdf)
+    - [Command Line Tools for Genomic Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/bioinformatics/command_line_tools_for_genomic_data_science.pdf)
+    - [Bioconductor for Genomic Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/bioinformatics/bioconductor_for_genomic_datascience.pdf)
+    - [Statistics for Genomic Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/bioinformatics/statistics_for_genomic_data_science.pdf)
+
 
 ### Machine Learning
 
-1. **Mathematics for Machine Learning and Data Science Specialization:**
-    - [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/linear-algebra-machine-learning-data-science)
-    - [Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/calculus-machine-learning-data-science)
-    - [Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/probability-statistics-machine-learning-data-science)
-2. **Machine Learning Specialization:**
-    - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/supervised-machine-learning)
-    - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)
-    - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
-3. **Deep Learning Specialization:**
-    - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
-    - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/improving-deep-neural-networks)
-    - [Structuring Machine Learning Projects](https://www.coursera.org/learn/structuring-machine-learning-projects)
-    - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
-    - [Sequence Models](https://www.coursera.org/learn/sequence-models)
+1. **Mathematics for Machine Learning and Data Science Specialization:**[here](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/mathematics_for_ml_%26_datascience.pdf)
+
+    - [Linear Algebra for Machine Learning and Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/linear_algebra.pdf)
+    - [Calculus for Machine Learning and Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+    - [Probability & Statistics for Machine Learning & Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+
+2. **Machine Learning Specialization:**[here](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+
+    - [Supervised Machine Learning: Regression and Classification](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+    - [Advanced Learning Algorithms](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+    - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+
+3. **Deep Learning Specialization:**[here](...)
+    - [Neural Networks and Deep Learning](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+    - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+    - [Structuring Machine Learning Projects](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+    - [Convolutional Neural Networks](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+    - [Sequence Models](...)
+
+
+## German language certificates:
+
+1. [TestDaf](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+2. [Goethe Certificate C1](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+3. [C1 Couese](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/calculus.pdf)
+
