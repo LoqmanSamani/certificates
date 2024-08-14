@@ -57,9 +57,10 @@ In the past five years, before and alongside my Master's program in [Technical B
     - [Sequence Models](...)
 
 
-## German language certificates:
-
-1. [TestDaf](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/german-certificate/testdaf.pdf)
-2. [Goethe Certificate C1](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/german-certificate/c1-certificate.pdf)
-3. [C1 Couese](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/german-certificate/c1-course.pdf)
+## language certificates:
+ 
+1. [preply](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/preply_english.pdf)
+2. [TestDaf](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/testdaf.pdf)
+3. [Goethe Certificate C1](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/c1-certificate.pdf)
+4. [C1 Couese](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/c1-course.pdf)
 
