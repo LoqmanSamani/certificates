@@ -57,7 +57,7 @@ In the past five years, before and alongside my Master's program in [Technical B
     - [Sequence Models](...)
 
 
-## language certificates:
+## Language certificates:
  
 1. [English Conversation](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/preply_english.pdf)
 2. [TestDaf](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/testdaf.pdf)
