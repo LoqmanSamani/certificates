@@ -59,7 +59,7 @@ In the past five years, before and alongside my Master's program in [Technical B
 
 ## language certificates:
  
-1. [preply](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/preply_english.pdf)
+1. [English Conversation](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/preply_english.pdf)
 2. [TestDaf](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/testdaf.pdf)
 3. [Goethe Certificate C1](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/c1-certificate.pdf)
 4. [C1 Couese](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/c1-course.pdf)
