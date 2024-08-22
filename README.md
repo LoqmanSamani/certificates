@@ -49,12 +49,12 @@ In the past five years, before and alongside my Master's program in [Technical B
     - [Advanced Learning Algorithms](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/advanced_algorithms.pdf)
     - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/unsupervised_learning.pdf)
 
-3. **Deep Learning Specialization:**[here](...)
+3. **Deep Learning Specialization:**[here](https://github.com/LoqmanSamani/deep-learning/blob/systembiology/certificates/deep_learning_specialization.pdf)
     - [Neural Networks and Deep Learning](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/neural_networks_%26_deep_learning.pdf)
     - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/improving_deep_neural_network.pdf)
     - [Structuring Machine Learning Projects](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/structuring_ml_projects.pdf)
     - [Convolutional Neural Networks](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/conv_nets.pdf)
-    - [Sequence Models](...)
+    - [Sequence Models](https://github.com/LoqmanSamani/deep-learning/blob/systembiology/certificates/sequence_models.pdf)
 
 
 ## Language certificates:
