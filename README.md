@@ -2,22 +2,25 @@
 
 In the past five years, before and alongside my Master's program in [Technical Biology](https://www.uni-stuttgart.de/en/study/study-programs/Technical-Biology-M.Sc./) at the [University of Stuttgart](https://www.uni-stuttgart.de/en/), I have successfully completed various online courses and specializations. Below is a list of these courses, categorized by platform, along with their respective certificates.
 
+
+
 ## Codecademy Courses ([website](https://www.codecademy.com/))
 
-1. [Introduction into IT](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/intro_to_IT.pdf)
-2. [Data Science Foundations](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/data_science_foundations.pdf)
-3. [Python 3](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/python3.pdf)
-4. [Statistics with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/statistics_with_python.pdf)
-5. [Master Statistics with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/master_statistics_with_python.pdf)
-6. [Data Analysis with Pandas](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/pandas.pdf)
-7. [Intermediate Python 3](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/intermediate_python3.pdf)
-8. [Statistics with NumPy](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/numpy.pdf)
-9. [How to Clean Data with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/data_cleaning_with_python.pdf)
-10. [Recursion with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/recursion.pdf)
-11. [Fundamental Math for Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/fundamental_math_for_data_science.pdf)
-12. [Differential Calculus](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/differential_calculus.pdf)
-13. [Linear Regression in Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/linear_regression.pdf)
-14. [Build a Machine Learning Model with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/machine_learning_with_python.pdf)
+- [Introduction into IT](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/intro_to_IT.pdf)  
+- [Data Science Foundations](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/data_science_foundations.pdf)  
+- [Python 3](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/python3.pdf)  
+- [Statistics with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/statistics_with_python.pdf)  
+- [Master Statistics with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/master_statistics_with_python.pdf)  
+- [Data Analysis with Pandas](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/pandas.pdf)  
+- [Intermediate Python 3](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/intermediate_python3.pdf)  
+- [Statistics with NumPy](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/numpy.pdf)  
+- [How to Clean Data with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/data_cleaning_with_python.pdf)  
+- [Recursion with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/recursion.pdf)  
+- [Fundamental Math for Data Science](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/fundamental_math_for_data_science.pdf)  
+- [Differential Calculus](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/differential_calculus.pdf)  
+- [Linear Regression in Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/linear_regression.pdf)  
+- [Build a Machine Learning Model with Python](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/code-cademy/machine_learning_with_python.pdf)  
+
 
 ## Coursera Courses
 
@@ -66,10 +69,15 @@ In the past five years, before and alongside my Master's program in [Technical B
 
 
 
-## Language certificates
- 
-1. [English Conversation](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/preply_english.pdf)
-2. [TestDaf](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/testdaf.pdf)
-3. [Goethe Certificate C1](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/c1-certificate.pdf)
-4. [C1 Couese](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/c1-course.pdf)
+
+
+
+## Language Certificates
+
+- [English Conversation](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/preply_english.pdf)  
+- [TestDaf](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/testdaf.pdf)  
+- [Goethe Certificate C1](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/c1-certificate.pdf)  
+- [C1 Course](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/c1-course.pdf)  
+
+
 
