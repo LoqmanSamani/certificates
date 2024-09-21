@@ -57,7 +57,16 @@ In the past five years, before and alongside my Master's program in [Technical B
     - [Sequence Models](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/machine-learning/sequence_models.pdf)
 
 
-## Language certificates:
+
+
+## University-Related Certificates
+
+- [Cell and Molecular Biology Olympiad](https://github.com/LoqmanSamani/certificates/blob/systembiology/uni/olympiad.pdf)  
+- [Member of the Elite Foundation at the University of Kurdistan](https://github.com/LoqmanSamani/certificates/blob/systembiology/uni/talent.pdf)
+
+
+
+## Language certificates
  
 1. [English Conversation](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/preply_english.pdf)
 2. [TestDaf](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/testdaf.pdf)
