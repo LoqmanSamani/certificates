@@ -74,6 +74,7 @@ In the past five years, before and alongside my Master's program in [Technical B
 
 ## Language Certificates
 
+-  [Scientific Writing](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/scientific-writing.pdf) 
 - [English Conversation](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/preply_english.pdf)  
 - [TestDaf](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/testdaf.pdf)  
 - [Goethe Certificate C1](https://github.com/LoqmanSamani/code-cademy/blob/systembiology/language-certificates/c1-certificate.pdf)  
